@@ -1,0 +1,2 @@
+uts/DannyPradana/mobile/BuildConfig.java
+ uts.DannyPradana.mobile.BuildConfig
